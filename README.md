@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+- 👨‍🎓 Currently in a web development bootcamp
+- 💻 Learning HTML, CSS, JavaScript, TypeScript an React
+- ✨ Looking forward to work on challenging new projects
+- 📫 DM me or send me an email (reachout@julianbuchholz.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=derjubu&theme=prussian)](https://git.io/streak-stats)
+
+
+
 <!--
 **derjubu/derjubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
