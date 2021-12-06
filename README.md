@@ -4,7 +4,7 @@
 - 🔍 Looking for a job as a junior developer
 - 💻 Learning HTML, CSS, JavaScript, TypeScript and React
 - ✨ Looking forward to work on challenging new projects
-- 📫 DM me or send me an email (reachout@julianbuchholz.com)
+- 📫 Want to get in contact? Send me an email (reachout@julianbuchholz.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=derjubu&theme=prussian)](https://git.io/streak-stats)
 
